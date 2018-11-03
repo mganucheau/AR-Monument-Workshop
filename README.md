@@ -197,6 +197,28 @@ Sources for Models:
 <hr>
 <br>
 
+Poly Example
+
+[https://github.com/archilogic-com/aframe-gblock](https://github.com/archilogic-com/aframe-gblock)  
+
+		<head>
+		  <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
+		  <script src="https://cdn.rawgit.com/archilogic-com/aframe-gblock/6498b71d/dist/gblock.js"></script>
+		</head>
+		<body>
+		  <a-scene>
+		    // Using Poly API Key (Recommended)
+		    <a-entity gblock="https://poly.google.com/view/ewsXLyr8OPu&key=YOUR_POLY_API_KEY_HERE"></a-entity>
+		    // Without Poly API Key (Legacy mode: Might break in the future)
+		    <a-entity gblock="https://poly.google.com/view/dVG0XJrpRJC"></a-entity>
+		  </a-scene>
+		</body>
+
+
+
+
+
+
 Thank you to to the following brilliant people for paving the way:    
   
 * [Elevr.com](http://elevr.com)    
