@@ -1,22 +1,17 @@
-# Incorporating Identity in Art and Technology Education: <br>AR Monuments Workshop
+### Incorporating Identity in Art and Technology Education: <br>AR Monuments Workshop
 Lead by [Matthew Ganucheau](http://www.ganucheau.com)
-<br><br>
 <hr>
-<br>
-In this participants will create an AR monument to honor an event in the past or future using open-source web technologies (html,css,js).  Your monument can contain any kind of media you would like to use.  Once placed in a public space you must document and share your monument with the class.
-
-
+In this participants will create an AR monument to honor an event in the past or future using open-source web technologies (html,css,js).  Your monument can contain any kind of media you would like to use.  Once placed in a public space you must document and share your monument with the class.       
 **Date:** November 3rd 2018  
 **Location:** Fort Mason - San Francisco, CA.    
-**Event:** Lenoard 50tth     
-**Objectives:**   
+**Event:** [Lenoard 50th Anniversary](https://www.leonardo.info/50th-anniversary)          
 **Prerequisites:** None, this workshop will provide support for all levels of expertise. Computers will be provided though laptops are encouraged.  
 **Software Used:** HTML, CSS, Javascript, [A-Frame(Web-VR)](https://aframe.io), [AR.js (Web-AR)](https://github.com/jeromeetienne/ar.js)   
 **Services Used:** [Neocities](https://neocities.org/)
 <br>		
 <hr>
 <br>
-###Part 1: Hello Monument!
+### Part 1: Hello Monument!
 1. Head to [Neocities](https://neocities.org/) and creat your account.
 2. Open Index.html & replace the existing code with the following:
 
@@ -129,7 +124,7 @@ In this participants will create an AR monument to honor an event in the past or
 <br>		
 <hr>
 <br>
-###Part 2: Create & Document your sculpture
+### Part 2: Create & Document your sculpture
 
 Pair into groups of 2-3 and create an AR monument to honor an event in the past or future. Begin by having each participant share a topic, location or event they would like to explore.
 
@@ -164,5 +159,5 @@ Sources for Models:
 Thank you to to the following brilliant people for paving the way:    
   
 * [Elevr.com](http://elevr.com)    
-* [Fred Leighton](https://mw18.mwconf.org/paper/the-portarble-museum-developing-augmented-reality-for-the-web-using-ar-js/)    
+* [Fred Leighton](https://mw18.mwconf.org/paper/the-portarble-museum-developing-augmented-reality-for-the-web-using-ar-js/)   
 * [Jerome Etienne](https://aframe.io/blog/arjs/#different-type-of-markers-pattern-and-barcode)
