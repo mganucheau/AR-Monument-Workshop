@@ -8,12 +8,12 @@ In this participants will create an AR monument to honor an event in the past or
 **Location:** Fort Mason - San Francisco, CA.      
 **Event:** [Lenoard 50th Anniversary](https://www.leonardo.info/50th-anniversary)            
 **Prerequisites:** None, this workshop will provide support for all levels of expertise. Computers will be provided though laptops are encouraged.    
-**Software Used:** HTML, CSS, Javascript, [A-Frame(Web-VR)](https://aframe.io), [AR.js (Web-AR)] (https://github.com/jeromeetienne/ar.js)    
-**Services Used:** [Neocities](https://neocities.org/) . 
+**Software Used:** HTML, CSS, Javascript, [A-Frame(Web-VR)](https://aframe.io) , [AR.js (Web-AR)](https://github.com/jeromeetienne/ar.js)     
+**Services Used:** [Neocities](https://neocities.org/) .   
 <br>		
 <hr>
 <br>
-### Part 1: Hello Monument!
+### Part 1: Hello Monument!   
 1. Head to [Neocities](https://neocities.org/) and creat your account.  
 2. Open Index.html & replace the existing code with the following:
 
@@ -126,7 +126,7 @@ In this participants will create an AR monument to honor an event in the past or
 <br>		
 <hr>
 <br>
-### Part 2: Create & Document your sculpture
+### Part 2: Create & Document your sculpture    
 
 Pair into groups of 2-3 and create an AR monument to honor an event in the past or future. Begin by having each participant share a topic, location or event they would like to explore.
 
