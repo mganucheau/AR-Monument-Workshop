@@ -207,10 +207,7 @@ Poly Example
 		</head>
 		<body>
 		  <a-scene>
-		    // Using Poly API Key (Recommended)
-		    <a-entity gblock="https://poly.google.com/view/ewsXLyr8OPu&key=YOUR_POLY_API_KEY_HERE"></a-entity>
-		    // Without Poly API Key (Legacy mode: Might break in the future)
-		    <a-entity gblock="https://poly.google.com/view/dVG0XJrpRJC"></a-entity>
+		    <a-entity gblock="https://poly.google.com/view/ewsXLyr8OPu"></a-entity>
 		  </a-scene>
 		</body>
 
