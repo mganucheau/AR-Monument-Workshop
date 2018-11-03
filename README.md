@@ -93,14 +93,10 @@ In this participants will create an AR monument to honor an event in the past or
 		</html>
 
 
-8. Next, let's replace the box with a 3D model but first we must find a 3d model. Save the following 3 files to your desktop
+8. Next, let's replace the box with a 3D model but first we must find a 3d model. Visit the following [google drive folder](
+https://drive.google.com/open?id=1xWvlnFpq5c6MLushO7TkMk1jjmsTQeGZ) and save the 3 files(hoa.mtl, hoa.obj & hoa.jpg) to your desktop.
 
-Hoa Hakananai'a model courtesy of [Thomas Flynn](https://sketchfab.com/models/ba9c49ce95674f478155441a44dd8f93)  
-
-https://drive.google.com/open?id=1xWvlnFpq5c6MLushO7TkMk1jjmsTQeGZ
-* .Obj
-* .Mtl
-* .Jpg
+	Hoa Hakananai'a model courtesy of [Thomas Flynn](https://sketchfab.com/models/ba9c49ce95674f478155441a44dd8f93)  
 
 9. Now we can replace our existing index.html with the following:
 
