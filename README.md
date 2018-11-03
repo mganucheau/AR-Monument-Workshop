@@ -68,7 +68,7 @@ In this participants will create an AR monument to honor an event in the past or
 		  </body>
 		</html>
 
-7. Let us view what adding an animated gif texture looks like.  Try Saving the following .gif to your neocities home folder.  
+7. Let us view what adding an animated gif texture looks like.   Save this [nyancat.gif](https://mganucheau.neocities.org/nyancat.gif)  to your desktop and then trasnfer it to your neocities home folder.  
 
 		<html>
 		  <head>
