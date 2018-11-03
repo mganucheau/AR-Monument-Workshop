@@ -1,4 +1,4 @@
-#Incorporating Identity in Art and Technology Education: <br>AR Monuments Workshop
+# Incorporating Identity in Art and Technology Education: <br>AR Monuments Workshop
 Lead by [Matthew Ganucheau](http://www.ganucheau.com)
 <br><br>
 <hr>
